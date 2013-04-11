@@ -10,7 +10,7 @@ Anyone can use the texture/templates in this folder to add suport for a mod not 
 ***
 ###Folder Info
 
-This is only the template folder for the mod folders please see [1.4.7](https://github.com/Morton00000/FyD-1.4.7) or [1.5.1](https://github.com/Morton00000/FyD-1.5.1).
+This is only the template textures folder, for the other folders please see [1.4.7](https://github.com/Morton00000/FyD-1.4.7) or [1.5.1](https://github.com/Morton00000/FyD-1.5.1).
 ***
 ###Purpose
 
