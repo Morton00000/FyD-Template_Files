@@ -1,0 +1,56 @@
+Blank colors are base colors befor template is applied.
+
+Iron
+Gold
+Coal
+Diamond
+Redstone
+Lapis
+Emerald
+Steel
+Brass
+Ruby
+Saphire
+Green saphire
+Tin
+Aluminum
+Lead
+Tungsten
+
+New Line
+
+Bronze
+Uranium
+Silver
+Copper
+Platinum
+Titanium
+Iridium
+Cinnabar/Mercury
+Electrum
+Saltpeter
+Sulfer
+Carbide
+Black iron
+Refined iron
+Nicolite
+Bauxite/Aluminum
+
+New Line
+
+Pyrite
+Sphalerite
+Sheldonite
+Olivine
+Zinc
+Chrome
+Nickel
+Blue XY
+Green XY
+Red XY
+Black XY
+White XY
+Graphite
+Plastic
+Forcium
+Quartz
