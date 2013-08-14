@@ -1,0 +1,47 @@
+The 3 types are:
+
+Column 1
+Metal/Main/General
+
+Column 2
+Gem/Encrusted/Shard
+
+Column 3
+Poor/Bad/Weak
+
+
+The Tools/Weapons are:
+
+- Sword/Short Sword
+- Spade
+- Two Headed Pick
+- Axe
+- Hoe
+
+- Broad Sword
+- Great/Bastard Sword
+- Scythe
+- Battle Axe
+- Axe w/ Hoe/Shovel/Pick
+- Dagger
+- Spear
+- Mace
+
+Next Column
+
+- Halbeard
+- One Headed Pick
+- Hammer
+- Arrow
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- Bow w/ Arrow *This is just a base meant for TC, all other bows use this as a base with hand modification
