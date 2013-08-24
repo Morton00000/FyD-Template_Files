@@ -1,0 +1,105 @@
+Materials
+
+- Iron
+- Gold
+- Coal
+- Diamond
+- Redstone
+- Lapis
+- Emerald
+- Steel (GT/RailCraft/TC)
+- Brass
+- Ruby
+- Sapphire
+- Sapphire-Green
+- Tin/Cassiterite
+- Aluminium
+- Lead
+- Tungsten
+
+- Bronze
+- Uranium
+- Silver
+- Copper
+- Platinum/Shiny
+- Titanium
+- Iridium
+- Mercury/Cinnabar/Quicksilver (3rd color is for GT ore)
+- Electrum
+- Saltpeter
+- Sulfur
+- Carbide
+- Iron-Black
+- Iron-Refined
+- Nicolite
+- Boxite
+
+- Pyrite
+- Sheldonite
+- Sodalite
+- Olivine
+- Zinc
+- Chrome
+- Nickel/Ferris
+- Tetrahedrite
+- Apatite (Forestry)
+- Galena (Silver & Lead)
+- Quartz-Certus
+- Xy Base
+- Graphite
+- Plastic
+- Monazit
+- Quartz
+
+Materials 2
+
+- Cobalt
+- Alubrass
+- Alumite
+- Manyullyn
+- Ardite
+- Amethyst
+- Apatite (BoP)
+- Tanzanite
+- Peridot
+- Topaz
+- Magic
+- Mithril
+- Igntumite
+- Iron-Wrought
+- Steel (RotaryCraft)
+- Invar
+
+- Amber
+- Essence Shard
+- Osmium
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

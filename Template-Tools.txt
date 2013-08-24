@@ -12,13 +12,13 @@ Poor/Bad/Weak
 
 The Tools/Weapons are:
 
-- Sword/Short Sword
+- Broad Sword
 - Spade
 - Two Headed Pick
 - Axe
 - Hoe
 
-- Broad Sword
+- Sword/Short Sword
 - Great/Bastard Sword
 - Scythe
 - Battle Axe
@@ -33,7 +33,7 @@ Next Column
 - One Headed Pick
 - Hammer
 - Arrow
-- 
+- Sickle
 - 
 - 
 - 

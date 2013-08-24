@@ -1,0 +1,18 @@
+The 3 types are:
+
+Column 1
+Metal/Main/General
+
+Column 2
+Gem/Encrusted/Shard
+
+Column 3
+Poor/Bad/Weak
+
+
+The Tools/Weapons are:
+
+- Helm
+- Chest-plate
+- Leggings
+- Boots
