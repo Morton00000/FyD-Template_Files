@@ -34,6 +34,7 @@ Next Column
 - Hammer
 - Arrow
 - Sickle
+- Cutlass
 - 
 - 
 - 
@@ -42,6 +43,3 @@ Next Column
 - 
 - 
 - 
-- 
-
-- Bow w/ Arrow *This is just a base meant for TC, all other bows use this as a base with hand modification
