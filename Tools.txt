@@ -39,8 +39,8 @@ Tools 2
 - Obsidian
 - Glowstone
 - Osmium
-- 
-- 
+- Matter-Dark
+- Matter-Red
 - 
 - 
 - 
