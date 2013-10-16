@@ -1,0 +1,52 @@
+Armor
+
+- Leather
+- Chain
+- Iron
+- Diamond
+- Gold
+- Bronze
+- Steel
+- Thuamium
+- Iron-Wood
+- Steel-Leaf
+- Knightly
+- Amethyst
+- Lapis
+- Obsidian
+- Glowstone
+- Osmium
+
+- Fiery
+- Leather-Other
+- Naga
+- Matter-Dark
+- Matter-Red
+- Titanium
+- Cobalt
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 

@@ -1,0 +1,69 @@
+Materials
+
+- Tin
+- Copper
+- Lead
+- Nickel
+
+- Silver
+- Galena
+- Aluminium
+- Iridium
+
+- Peridot
+- C Quartz
+- Uranium
+- Mercury
+
+- Amber
+- Air-Shard
+- Fire-Shard
+- Water-Shard
+
+- Earth-Shard
+- Magic-Shard
+- Dull-Shard
+- Apatite
+
+- Saltpeter
+- Tungsten
+- Nicolite
+- Green Sapphire
+
+- Ruby
+- Sapphire
+- Monazit
+- Force
+
+- Coal
+- Iron
+- Gold
+- Redstone
+
+- Lapiz
+- Diamond
+- Emerald
+- Tin
+
+- Copper
+- Lead
+- Nickel
+- Silver
+
+- Nicolite
+- Cobalt
+- Ardite
+- Platinum
+
+- Platinum
+- Zinc
+- Osmium
+- Pig Iron
+
+- Sulfur
+- Pitchblende
+- Cadmium
+- Indium
+
+- Fluorite
+

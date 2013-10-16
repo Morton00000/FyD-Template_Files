@@ -41,8 +41,8 @@ Tools 2
 - Osmium
 - Matter-Dark
 - Matter-Red
-- 
-- 
+- Titanium
+- Cobalt
 - 
 - 
 - 

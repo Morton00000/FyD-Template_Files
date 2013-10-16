@@ -73,18 +73,18 @@ Materials 2
 - Amber
 - Essence Shard
 - Osmium
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Fluorite-Blue
+- Fluorite-Pink
+- Fluorite-Orange
+- Fluorite-Magenta
+- Fluorite-Green
+- Fluorite-Red
+- Fluorite-White
+- Fluorite-Yellow
+- Fluorite-Purple
+- Cadmium
+- Indium
+- Pitchblende
 - 
 
 - 
