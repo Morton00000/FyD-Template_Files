@@ -1,0 +1,18 @@
+Block
+
+- Lead
+- Electrum
+- Zinc
+- Olivine
+- Sapphire-Green
+- Platinum
+- Tungsten
+- Nickel
+- Tungsten-Steel
+- Iridium Reinforced Tungsten-Steel
+- Invar
+- Osmium
+- Iridium
+- Bronze Plated
+- Garnet-Yellow
+- Garnet-Red

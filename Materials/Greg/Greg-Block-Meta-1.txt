@@ -1,0 +1,18 @@
+Block
+
+- Advanced Machine Block
+- Fusion Coil
+- Iridium Reinforced Stone
+- Silver
+- Ruby
+- Sapphire
+- LESU-Block
+- Aluminium
+- Titanium
+- Chrome
+- Highly Advanced Machineblock
+- Steel
+- Brass
+- Standard Machine Casing
+- Reinforced Machine Casing
+- Advanced Machine Casing

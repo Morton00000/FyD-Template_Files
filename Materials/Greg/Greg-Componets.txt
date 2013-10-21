@@ -1,0 +1,74 @@
+Components
+
+- Energy Flow Circuit (0)
+- Data Control Circuit
+- Superconductor
+- Data Storage Circuit
+- Computer Monitor
+- Conveyor Module
+- Pump Module
+- Solar Panel
+- Item Transport Valve
+- Drain
+- Redstone Liquid Detector
+- Redstone Item Detector
+- Energy Crystal Upgrade
+- Lapotron Crystal Upgrade
+- Energy Orb Upgrade
+- Redstone Energy Meter
+- ?????????
+- Diamond Sawblade
+- Diamond Grinder
+- Kanthal Heating Coil
+- Nichrome Heating Coil
+- Cupronickel Heating Coil
+- Machine Parts
+- Wolframium Grinder
+- Advanced Circuit Parts
+- Pneumatic Generator Upgrade
+- Lithium Battery Upgrade
+- HV-Transformer Upgrade
+- RS-Energy-Cell Upgrade
+- Quantum-Chest Upgrade
+- Active Machine Detector
+- Redstone Machine Controller
+- Aluminium Machine Hull
+- Bronze Machine Hull
+- Brass Machine Hull
+- Steel Machine Hull
+- Titanium Machine Hull
+- Iron Machine Hull
+- Tungsten-Steel Machine Hull
+- Steel-Stainless Machine Hull
+
+- Basic Circuit Board (48)
+- Advanced Circuit Board
+- Processor Circuit Board
+- Bronze Turbine Blade
+- Steel Turbine Blade
+- Magnalium Turbine Blade
+- Tungsten-Steel Turbine Blade
+- Carbon Turbine Blade
+- Empty Spray Can
+- Crafting Module
+- LV Solar Panel
+- MV Solar Panel
+- HV Solar Panel
+
+- Steam Upgrade (80)
+- Steam Tank
+- Redstone Receiver (IN)
+- Redstone Receiver (OUT)
+- Redstone Transmitter (IN)
+- Redstone Transmitter (OUT)
+- Redstone Conductor
+- Redstone Signalizer
+- Lock Upgrade
+
+- Iron Gear (96)
+- Bronze Gear
+- Steel Gear
+- Titanium Gear
+- Tungsten-Steel Gear
+- Iridium Gear
+- Steel-Stainless Gear

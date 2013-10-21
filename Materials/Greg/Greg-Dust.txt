@@ -1,0 +1,77 @@
+Dusts
+
+- Ender Pearl (0)
+- Ender Eye
+- Lazurite
+- Pyrite
+- Calcite
+- Sodalite
+- Netherrack
+- Flint
+- Sulfur
+- Saltpeter
+- Endstone
+- Cinnabar
+- Manganese
+- Magnesium
+- Sphalerite
+- Wood
+- Uranium
+- Bauxite
+- Aluminium
+- Titanium
+- Chrome
+- Electrum
+- Tungsten
+- Lead
+- Zinc
+- Brass
+- Steel
+- Platinum
+- Nickel
+- Invar
+- Osmium
+- Antimony
+- Ruby
+- Sapphire
+- Sapphire-Green
+- Emerald
+- Diamond
+- Olivine
+
+- Cupronickel
+- Nichrome
+- Kanthal
+- Steel-Stainless
+- Galena
+- Phosphorus
+- Obsidian
+- Charcoal
+
+- Garnet-Red (54)
+- Garnet-Yellow
+- Pyrope
+- Almandine
+- Spessartine
+- Andradite
+- Grossular
+- Uvarovite
+- Ashes
+- Ashes-Dark
+- Redrock
+- Marble
+- Basalt
+- Iridium
+- Thorium
+- Plutonium
+
+- Lapis (238)
+- Tetrahedrite
+- Coal
+- Iron
+- Gold
+- Copper
+- Tin
+- Bronze
+- Silver
+- Clay

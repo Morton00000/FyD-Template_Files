@@ -1,0 +1,17 @@
+Ore
+
+- Galena
+- Iridium
+- Ruby
+- Sapphire
+- Bauxite
+- Pyrite (nether)
+- Cinnabar
+- Sphalerite
+- Tungsten
+- Sheldonite
+- Olivine (end)
+- Sodalite (end)
+- Tetrahedrite
+- Cassiterite
+- Nickel
