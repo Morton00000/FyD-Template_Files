@@ -1,56 +1,61 @@
 Materials
 
-- Credit-Copper (1)
-- Credit-Silver
-- Credit-Gold
-- Credit-Diamond
-- Ingot-Iridium Alloy (adv alloy and iridium)
-- Ingot-Tungsten-Steel Hot
-- Ingot-Tungsten-Steel
-- Oil Berry
-- Indigo Blossom
-- Indigo Dye
+000- Credit-Copper
+001- Credit-Silver
+002- Credit-Gold
+003- Credit-Diamond
+004- Ingot-Iridium Alloy (Adv Alloy and Iridium)
+005- Ingot-Tungsten-Steel Hot
+006- Ingot-Tungsten-Steel
 
-- Plate-Magnalium (13)
-- Flour
-- Plate-Wood
-- Ingot-Iridium
-- Ingot-Aluminium
-- Ingot-Titanium
-- Ingot-Chrome
-- Ingot-Electrum
-- Ingot-Tungsten
-- Ingot-Lead
-- Ingot-Zinc
-- Ingot-Brass
-- Ingot-Steel
-- Ingot-Platinum
-- Ingot-Nickel
-- Ingot-Invar
-- Ingot-Osmium
-- Ingot-Antimony
-- Ruby
-- Sapphire
-- Sapphire-Green
-- Lazurite Chunk
-- Plate-Silicon
-- Olivine
-- Ingot-Thorium
-- Ingot-Plutonium
-- Ingot-Magnalium
-- Ingot-Soldering Alloy
-- Ingot-Battery Alloy
-- Ingot-Uranium
-- Ingot-Steel-Stainless
-- Ingot-Cupronickel
-- Ingot-Nichrome
-- Ingot-Kanthal
+007- Oil Berry
+008- Indigo Blossom
+009- Indigo Dye
+013- Plate-Magnalium
+014- Flour
+015- Plate-Wood
+016- Ingot-Iridium
 
-- Garnet-Red (54)
-- Garnet-Yellow
+017- Ingot-Silver
+018- Ingot-Aluminium
+019- Ingot-Titanium
+020- Ingot-Chrome
+021- Ingot-Electrum
+022- Ingot-Tungsten
+023- Ingot-Lead
 
-- Plate-Garnet-Yellow (58)
-- Plate-Garnet-Red
+024- Ingot-Zinc
+025- Ingot-Brass
+026- Ingot-Steel
+027- Ingot-Platinum
+028- Ingot-Nickel
+029- Ingot-Invar
+030- Ingot-Osmium
+
+031- Ingot-Antimony
+032- Ruby
+033- Sapphire
+034- Sapphire-Green
+035- Lazurite Chunk
+036- Plate-Silicon
+037- Olivine
+
+038- Ingot-Thorium
+039- Ingot-Plutonium
+040- Ingot-Magnalium (2 Aluminium-Magnesium)
+041- Ingot-Soldering Alloy (9 Tin-Antimony)
+042- Ingot-Battery Alloy (4 Lead-Antimony)
+043- Ingot-Uranium
+044- Ingot-Steel-Stainless
+
+045- Ingot-Cupronickel (Nickel-Copper)
+046- Ingot-Nichrome (4 Nickel-Chrome)
+047- Ingot-Kanthal (Aluminium-Iron-Chrome)
+054- Garnet-Red
+055- Garnet-Yellow
+058- Plate-Garnet-Yellow
+059- Plate-Garnet-Red
+
 - Plate-Oak
 - Plate-Spruce
 - Plate-Birch
@@ -58,6 +63,7 @@ Materials
 - Plate-Iron
 - Plate-Gold
 - Plate-Steel-Stainless
+
 - Plate-Tin
 - Plate-Copper
 - Plate-Silver
@@ -65,6 +71,7 @@ Materials
 - Plate-Electrum
 - Plate-Nickel
 - Plate-Invar
+
 - Plate-Lead
 - Plate-Aluminium
 - Plate-Chrome
@@ -72,6 +79,7 @@ Materials
 - Plate-Steel
 - Plate-Platinum
 - Plate-Tungsten
+
 - Plate-Brass
 - Plate-Zinc
 - Plate-Tungsten-Steel
@@ -79,6 +87,7 @@ Materials
 - Plate-Iridium
 - Plate-Battery Alloy
 - Plate-Diamond
+
 - Plate-Emerald
 - Plate-Ruby
 - Plate-Sapphire
@@ -86,6 +95,7 @@ Materials
 - Plate-Olivine
 - Plate-Redstone
 - Plate-Lapis
+
 - Plate-Coal
 - Rod-Iron
 - Rod-Gold
@@ -93,6 +103,7 @@ Materials
 - Rod-Tin
 - Rod-Copper
 - Rod-Silver
+
 - Rod-Bronze
 - Rod-Electrum
 - Rod-Nickel
@@ -100,6 +111,7 @@ Materials
 - Rod-Lead
 - Rod-Aluminium
 - Rod-Chrome
+
 - Rod-Titanium
 - Rod-Steel
 - Rod-Platinum
@@ -107,22 +119,23 @@ Materials
 - Rod-Brass
 - Rod-Zinc
 - Rod-Tungsten-Steel
+
 - Rod-Osmium
 - Rod-Iridium
-
 - Lense-Diamond (256)
 - Lense-Ruby
 - Lense-Emerald
 - Lense-Sapphire
 - Lense-Sapphire-Green
+
 - Lense-Garnet-Yellow
 - Lense-Garnet-Red
 - Lense-Olivine
 - Lense-Amber
 - Lense-Tanzanite
 - Lense-Topaz
-
 - Bolt-Iron (320)
+
 - Bolt-Gold
 - Bolt-Steel-Stainless
 - Bolt-Tin
@@ -130,6 +143,7 @@ Materials
 - Bolt-Silver
 - Bolt-Bronze
 - Bolt-Electrum
+
 - Bolt-Nickel
 - Bolt-Invar
 - Bolt-Lead
@@ -137,6 +151,7 @@ Materials
 - Bolt-Chrome
 - Bolt-Titanium
 - Bolt-Steel
+
 - Bolt-Platinum
 - Bolt-Tungsten
 - Bolt-Brass
@@ -152,6 +167,7 @@ Materials
 - Screw-Copper
 - Screw-Silver
 - Screw-Bronze
+
 - Screw-Electrum
 - Screw-Nickel
 - Screw-Invar
@@ -159,6 +175,7 @@ Materials
 - Screw-Aluminium
 - Screw-Chrome
 - Screw-Titanium
+
 - Screw-Steel
 - Screw-Platinum
 - Screw-Tungsten
@@ -166,14 +183,15 @@ Materials
 - Screw-Zinc
 - Screw-Tungsten-Steel
 - Screw-Osmium
-- Screw-Iridium
 
+- Screw-Iridium
 - Round-Iron (448)
 - Round-Gold
 - Round-Steel-Stainless
 - Round-Tin
 - Round-Copper
 - Round-Silver
+
 - Round-Bronze
 - Round-Electrum
 - Round-Nickel
@@ -181,6 +199,7 @@ Materials
 - Round-Lead
 - Round-Aluminium
 - Round-Chrome
+
 - Round-Titanium
 - Round-Steel
 - Round-Platinum
@@ -188,5 +207,6 @@ Materials
 - Round-Brass
 - Round-Zinc
 - Round-Tungsten-Steel
+
 - Round-Osmium
 - Round-Iridium

@@ -85,18 +85,18 @@ Materials 2
 - Cadmium
 - Indium
 - Pitchblende
-- 
+- Plutonium
 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Thorium
+- Garnet-Yellow
+- Garnet-Red
+- Cupronickel (Nickel-Copper)
+- Nichrome (4 Nickel-Chrome)
+- Kanthal (Aluminium-Iron-Chrome)
+- Soldering Alloy (9 Tin-Antimony)
+- Battery Alloy (4 Lead-Antimony)
+- Antimony
+- Tungsten-Steel
 - 
 - 
 - 

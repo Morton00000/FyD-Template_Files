@@ -1,77 +1,91 @@
 Dusts
 
-- Ender Pearl (0)
-- Ender Eye
-- Lazurite
-- Pyrite
-- Calcite
-- Sodalite
-- Netherrack
-- Flint
-- Sulfur
-- Saltpeter
-- Endstone
-- Cinnabar
-- Manganese
-- Magnesium
-- Sphalerite
-- Wood
-- Uranium
-- Bauxite
-- Aluminium
-- Titanium
-- Chrome
-- Electrum
-- Tungsten
-- Lead
-- Zinc
-- Brass
-- Steel
-- Platinum
-- Nickel
-- Invar
-- Osmium
-- Antimony
-- Ruby
-- Sapphire
-- Sapphire-Green
-- Emerald
-- Diamond
-- Olivine
+000- Ender Pearl
+001- Ender Eye
+002- Lazurite (Cyan)
+003- Pyrite
+004- Calcite
+005- Sodalite
+006- Netherrack
 
-- Cupronickel
-- Nichrome
-- Kanthal
-- Steel-Stainless
-- Galena
-- Phosphorus
-- Obsidian
-- Charcoal
+007- Flint
+008- Sulfur
+009- Saltpeter
+010- Endstone
+011- Cinnabar
+012- Manganese
+013- Magnesium
 
-- Garnet-Red (54)
-- Garnet-Yellow
-- Pyrope
-- Almandine
-- Spessartine
-- Andradite
-- Grossular
-- Uvarovite
-- Ashes
-- Ashes-Dark
-- Redrock
-- Marble
-- Basalt
-- Iridium
-- Thorium
-- Plutonium
+014- Sphalerite
+015- Wood
+016- Uranium
+017- Bauxite
+018- Aluminium
+019- Titanium
+020- Chrome
 
-- Lapis (238)
-- Tetrahedrite
-- Coal
-- Iron
-- Gold
-- Copper
-- Tin
-- Bronze
-- Silver
-- Clay
+021- Electrum
+022- Tungsten
+023- Lead
+024- Zinc
+025- Brass
+026- Steel
+027- Platinum
+
+028- Nickel
+029- Invar
+030- Osmium
+031- Antimony <- Tetrahedrite Ore
+032- Ruby
+033- Sapphire
+034- Sapphire-Green
+
+035- Emerald
+036- Diamond
+037- Olivine
+040- Cupronickel (Nickel-Copper)
+041- Nichrome (4 Nickel-Chrome)
+042- Kanthal (Aluminium-Iron-Chrome)
+043- Steel-Stainless
+
+044- Galena
+045- Phosphorus
+046- Obsidian
+047- Charcoal
+048-
+049-
+050-
+
+051-
+052-
+053-
+054- Garnet-Red
+055- Garnet-Yellow
+056- Pyrope
+057- Almandine
+
+058- Spessartine
+059- Andradite
+060- Grossular
+061- Uvarovite
+062- Ashes
+063- Ashes-Dark
+064- Redrock
+
+065- Marble
+066- Basalt
+067- Iridium
+080- Thorium
+081- Plutonium
+238- Lapis
+239- Tetrahedrite
+
+240- Coal
+241- Iron
+242- Gold
+243- Copper
+244- Tin
+245- Bronze
+246- Silver
+
+247- Clay
