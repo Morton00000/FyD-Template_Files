@@ -32,7 +32,7 @@ Materials
 - Iron-Black
 - Iron-Refined
 - Nicolite
-- Boxite
+- Bauxite
 
 - Pyrite
 - Sheldonite
