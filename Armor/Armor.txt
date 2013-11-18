@@ -26,7 +26,7 @@ Armor
 - Cobalt
 - Steel (RotaryCraft)
 - Bedrock
-- 
+- Invar
 - 
 - 
 - 

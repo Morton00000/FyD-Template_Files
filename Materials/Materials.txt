@@ -97,7 +97,7 @@ Materials 2
 - Battery Alloy (4 Lead-Antimony)
 - Antimony
 - Tungsten-Steel
-- 
+- Enderium
 - 
 - 
 - 
