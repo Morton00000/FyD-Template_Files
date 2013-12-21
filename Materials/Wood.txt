@@ -1,0 +1,105 @@
+Wood
+
+- Oak
+- Birch
+- Spruce
+- Jungle
+- Acacia
+- Big Oak
+- Cherry
+- Dark
+- Dead
+- Fir
+- Hell Bark
+- Holy
+- Jacaranda
+- Magic
+- Mangrove
+- Palm
+
+- Pine
+- Red Wood
+- Willow
+- Apple
+- Blood Wood
+- Dark Wood
+- Eucalyptus
+- Fuse Wood
+- Ghost Wood
+- Hopseed
+- Maple
+- Purpleheart
+- Sakura
+- Silverbell
+- Tiger
+- Canopy
+
+- Oak TF
+- Time
+- Mine
+- Trans
+- Sort
+- Dark Wood TF
+- Silverwood
+- Greatwood
+- Force
+- Rubber IC2
+- Rubber MFR
+- Balsa
+- Baobab
+- Chestnut
+- Citrus
+- Ebony
+
+- Giganteum
+- Greenheart
+- Kapok
+- Larch
+- Lime
+- Mahoe
+- Mahogany
+- Papaya
+- Plum
+- Poplar
+- Sequoia
+- Teak
+- Walnut
+- Wenge
+- Alder
+- Ash
+
+- Banana
+- Beech
+- Box
+- Brazilwood
+- Butternut
+- Cedar
+- Cinnamon
+- Cypress
+- Elder
+- Elm
+- Fig
+- Gingko
+- Hawthorn
+- Hazel
+- Hemlock
+- Hickory
+
+Wood-2
+
+- Holly
+- Hornbeam
+- Iroko
+- Locust
+- Logwood
+- Maclura
+- Olive
+- Pear
+- Pinkivory
+- Rosewood
+- Rowan
+- Sweetgum
+- Syzgium
+- Whitebeam
+- Yew
+- 
