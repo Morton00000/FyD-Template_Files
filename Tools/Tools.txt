@@ -45,10 +45,10 @@ Tools 2
 - Cobalt
 - Steel (RotaryCraft)
 - Invar
-- 
-- 
-- 
-- 
+- Silver
+- Electrum
+- Platinum
+- Brass
 - 
 - 
 - 

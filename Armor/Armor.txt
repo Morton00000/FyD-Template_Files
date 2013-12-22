@@ -27,11 +27,11 @@ Armor
 - Steel (RotaryCraft)
 - Bedrock
 - Invar
-- 
-- 
-- 
-- 
-- 
+- Silver
+- Electrum
+- Copper
+- Platinum
+- Brass
 - 
 
 - 
