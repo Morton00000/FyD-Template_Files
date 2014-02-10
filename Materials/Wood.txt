@@ -18,14 +18,14 @@ Wood
 - Palm
 
 - Pine
-- Red Wood
+- Redwood
 - Willow
 - Apple
-- Blood Wood
-- Dark Wood
+- Bloodwood
+- Darkwood
 - Eucalyptus
-- Fuse Wood
-- Ghost Wood
+- Fusewood
+- Ghostwood
 - Hopseed
 - Maple
 - Purpleheart
@@ -39,7 +39,7 @@ Wood
 - Mine
 - Trans
 - Sort
-- Dark Wood TF
+- Darkwood TF
 - Silverwood
 - Greatwood
 - Force
