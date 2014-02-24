@@ -10,7 +10,7 @@ Materials
 - Aluminium
 - Iridium
 
-- Peridot
+- Firestone
 - C Quartz
 - Uranium
 - Mercury
@@ -21,13 +21,13 @@ Materials
 - Water-Shard
 
 - Earth-Shard
-- Magic-Shard
-- Dull-Shard
+- Entropy-Shard
+- Order-Shard
 - Apatite
 
 - Saltpeter
 - Tungsten
-- Nicolite
+- Nikolite
 - Green Sapphire
 
 - Ruby
@@ -50,7 +50,7 @@ Materials
 - Nickel
 - Silver
 
-- Nicolite
+- Nikolite
 - Cobalt
 - Ardite
 - Platinum
@@ -66,4 +66,31 @@ Materials
 - Indium
 
 - Fluorite
+- Bauxite
+- Sodalite
+- Pyrite
 
+- Ammonium Chloride
+- Calcite
+- Chimerite
+- Vinteum
+
+- Blue Topaz
+- Moonstone
+- Sunstone
+- Titanium
+
+- Magmanite
+- Magnetite
+- Essence
+- Mimichite
+
+- Uranium
+- Quantum
+- Iridium
+- Dark Iron
+
+- Chromite
+- Sapphire
+- Green Sapphire
+- 

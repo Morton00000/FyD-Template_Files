@@ -32,9 +32,9 @@ Armor
 - Copper
 - Platinum
 - Brass
-- 
+- Mithril
 
-- 
+- Quicksilver
 - 
 - 
 - 

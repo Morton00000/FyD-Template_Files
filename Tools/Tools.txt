@@ -49,8 +49,8 @@ Tools 2
 - Electrum
 - Platinum
 - Brass
-- 
-- 
+- Mithril (Metallurgy)
+- Quicksilver
 - 
 
 - 

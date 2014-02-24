@@ -98,6 +98,25 @@ Materials 2
 - Antimony
 - Tungsten-Steel
 - Enderium
+- Vinteum
+- Blue Topaz
+- Moonstone
+- Sunstone
+- Calcite
+
+Materials 3
+
+- Magnetite
+- Ammonium
+- Crystals
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 - 
 - 
 - 

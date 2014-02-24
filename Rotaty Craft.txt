@@ -1,0 +1,28 @@
+Dust:
+Netherrack
+tar sand
+sludge
+sawdust
+bedrock
+salt
+ammonium nitrate
+silver iodide
+aluminium
+flour
+
+Gem/ingot:
+anthracite
+prismane
+lonsdaleite
+bedrock
+aluminium
+silver
+
+Pipes:
+lubricant hose
+liquid pipe
+fuel line
+
+valve pipe
+bypass pipe
+separation pipe

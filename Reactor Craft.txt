@@ -1,0 +1,41 @@
+top:
+nuclear waste
+Uranium pellet fresh        enriched uranium dust
+Depleted uranium          depleted uranium dust
+heavy water bucket        
+hydrogen fluoride        
+enriched uranium dust        
+depleted uranium dust        
+ammonium chloride        ammonium chloride ore
+quicklime        smelt calcite
+calcite        calcite ore
+lodestone        magnetite ore
+
+Ingots:
+uranium        pitchblende
+cadmium
+indium
+silver
+
+row 6:
+fuel canister       alloy ingot and chest
+absorption rod        alloy and steel
+obsidian tank           obsidian glass
+cd-in-ag alloy ingot      indium cadmium and silver
+hardened backing panel      
+ferromagnetic plate         ferromagnetic ingot
+magnetic core           ferromagnetic plate
+coolant pack          steel
+gold wiring          gold
+neutron shielding         
+ferromagnetic ingot      lodestone iron steel   
+hysteresis plate         steel and iron
+hysteresis ring         hysteresis plate
+
+row 7:
+plutonium pellet fresh
+thorium pellet
+breeder fuel        Depleted uranium and uranium
+cleaner
+permanent magnet         lodestone
+reactor cpu remote       

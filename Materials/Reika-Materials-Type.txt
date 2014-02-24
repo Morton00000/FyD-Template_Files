@@ -1,0 +1,96 @@
+Materials
+
+Ingot- Tin
+Ingot- Copper
+Ingot- Lead
+Ingot- Nickel
+
+Ingot- Silver
+Ingot- Galena
+Ingot- Aluminium
+Ingot- Iridium
+
+Gem  - Firestone
+Gem  - C Quartz
+Ingot- Uranium
+Ingot- Mercury
+
+Gem  - Amber
+Gem  - Air-Shard
+Gem  - Fire-Shard
+Gem  - Water-Shard
+
+Gem  - Earth-Shard
+Gem  - Entropy-Shard
+Gem  - Order-Shard
+Gem  - Apatite
+
+Dust - Saltpeter
+Ingot- Tungsten
+Dust - Nikolite
+Gem  - Green Sapphire
+
+Gem  - Ruby
+Gem  - Sapphire
+Gem  - Monazit
+Gem  - Force
+
+Gem  - Coal
+Ingot- Iron
+Ingot- Gold
+Dust - Redstone
+
+Gem  - Lapiz
+Gem  - Diamond
+Gem  - Emerald
+Ingot- Tin
+
+Ingot- Copper
+Ingot- Lead
+Ingot- Nickel
+Ingot- Silver
+
+Dust - Nikolite
+Ingot- Cobalt
+Ingot- Ardite
+Ingot- Platinum
+
+Ingot- Platinum
+Ingot- Zinc
+Ingot- Osmium
+Ingot- Pig Iron
+
+Dust - Sulfur
+Ingot- Pitchblende
+Ingot- Cadmium
+Ingot- Indium
+
+Gem  - Fluorite
+Dust - Bauxite
+Gem  - Sodalite
+Dust - Pyrite
+
+Dust - Ammonium Chloride
+Gem  - Calcite
+Gem  - Chimerite
+Dust - Vinteum
+
+Gem  - Blue Topaz
+Gem  - Moonstone
+Gem  - Sunstone
+Ingot- Titanium
+
+Gem  - Magmanite
+Gem  - Magnetite
+Gem  - Essence
+Gem  - Mimichite
+
+Ingot- Uranium
+Dust - Quantum
+Ingot- Iridium
+Ingot- Dark Iron
+
+Ingot- Chromite
+Gem  - Sapphire
+Gem  - Green Sapphire
+- 
