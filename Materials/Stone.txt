@@ -1,4 +1,4 @@
-Stone
+Stone-1
 
 - Stone
 - Andesite
@@ -29,10 +29,12 @@ Stone
 - Gabbro
 - Green Chist
 - Komatiite
-- Red Granite
+- Quartzite
 - Rhyolite
 - Soapstone
 - Black Stone (MFR)
+
+Stone-2
 
 - White Stone (MFR)
 - 

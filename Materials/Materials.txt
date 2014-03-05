@@ -7,72 +7,53 @@ Materials
 - Redstone
 - Lapis
 - Emerald
-- Steel (GT/RailCraft/TC)
-- Brass
-- Ruby
-- Sapphire
-- Sapphire-Green
-- Tin/Cassiterite
-- Aluminium
-- Lead
-- Tungsten
-
-- Bronze
-- Uranium/Depleted/MOX/Depleted
-- Silver
+- Quartz
 - Copper
-- Platinum/Shiny
-- Titanium
-- Iridium
-- Mercury/Cinnabar/Quicksilver (3rd color is for GT ore)
-- Electrum
+- Tin/Cassiterite
+- Bronze
+- Brass
+- Silver
+- Lead
 - Saltpeter
 - Sulfur
-- Carbide
-- Iron-Black
-- Iron-Refined
-- Nicolite
-- Bauxite
 
-- Pyrite
-- Sheldonite
-- Sodalite
-- Olivine
-- Zinc
-- Chrome
-- Nickel/Ferris
-- Tetrahedrite
-- Apatite (Forestry)
-- Galena (Silver & Lead)
-- Quartz-Certus
-- Xy Base
-- Graphite
-- Plastic
-- Monazit
-- Quartz
-
-Materials 2
-
+- Platinum/Shiny
+- Nickel/Ferris/Pentlandite
+- Invar
+- Steel (GT/RailCraft/TC)
+- (Uranium-Pitchblende)/Depleted/MOX/Depleted
+- Iridium
+- (Mercury-Quicksilver)/Cinnabar (3rd color is for GT ore)
+- Amber
+- Essence Shard
 - Cobalt
 - Alubrass
 - Alumite
 - Manyullyn
 - Ardite
-- Amethyst
-- Apatite (BoP)
-- Tanzanite
-- Peridot
-- Topaz
-- Magic
-- Mithril
-- Igntumite
-- Iron-Wrought
-- Steel (RotaryCraft)
-- Invar
+- Dark Iron
+- Galena (Silver & Lead)
 
-- Amber
-- Essence Shard
+- Apatite (Forestry)
+- Quartz-Certus
+- Ruby
+- Sapphire
+- Sapphire-Green
+- Peridot
+- Tungsten
+- Nicolite
+- Refined Iron
+- Aluminium
+- Bauxite
 - Osmium
+- Monazit
+- Plastic
+- Electrum
+- Titanium/Rutile
+
+Materials 2
+
+- Steel (RotaryCraft)
 - Fluorite-Blue
 - Fluorite-Pink
 - Fluorite-Orange
@@ -84,10 +65,35 @@ Materials 2
 - Fluorite-Purple
 - Cadmium
 - Indium
-- Pitchblende
 - Plutonium
+- Calcite
+- Magnetite
+- Ammonium
 
+- Vinteum
+- Blue Topaz
+- Moonstone
+- Sunstone
+- Amethyst
+- Apatite (BoP)
+- Tanzanite
+- Topaz
+- Malachite
+- Graphite
+- Salt
 - Thorium
+- Enderium
+- 
+- 
+- 
+
+- Pyrite
+- Sheldonite
+- Sodalite
+- Olivine
+- Zinc
+- Chrome
+- Tetrahedrite
 - Garnet-Yellow
 - Garnet-Red
 - Cupronickel (Nickel-Copper)
@@ -96,28 +102,38 @@ Materials 2
 - Soldering Alloy (9 Tin-Antimony)
 - Battery Alloy (4 Lead-Antimony)
 - Antimony
-- Tungsten-Steel
-- Enderium
-- Vinteum
-- Blue Topaz
-- Moonstone
-- Sunstone
-- Calcite
+- Tungsten-Steel 
 
-Materials 3
+Materials 3 (Other Materials Stuff)
 
-- Magnetite
-- Ammonium
-- Crystals
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+- Iron
+- Gold
+- Coal
+- Diamond
+- Redstone
+- Emerald
+- Copper
+- Tin
+- Silver
+- Lead
+- Uranium
+- Iridium
+- Ruby
+- Sapphire
+- Sapphire-Green
+
+- Saltpeter
+- (Cinnabar-Mercury)
+- Cobalt
+- Aluminium
+- Copper
+- Tin
+- Iron
+- Gold
+- Tungsten
+- Osmium
+- Nicolite
+- Platinum/Shiny
 - 
 - 
 - 

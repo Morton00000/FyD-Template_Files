@@ -1,0 +1,35 @@
+Nether Ores
+
+- coal
+- diamond
+- gold
+- iron
+- lapis
+- redstone
+- copper
+- tin
+- emerald
+- silver
+- lead
+- uranium
+- nikolite
+- ruby
+- peridot
+- sapphire
+
+- netherrack
+- platinum
+- ferrous
+- pig iron
+- iridium
+- osmium
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
