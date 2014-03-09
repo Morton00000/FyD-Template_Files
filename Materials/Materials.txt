@@ -38,8 +38,8 @@ Materials
 - Quartz-Certus
 - Ruby
 - Sapphire
-- Sapphire-Green
 - Peridot
+- 
 - Tungsten
 - Nicolite
 - Refined Iron
