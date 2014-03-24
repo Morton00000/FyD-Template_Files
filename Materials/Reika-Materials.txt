@@ -40,7 +40,7 @@ Materials
 - Gold
 - Redstone
 
-- Lapiz
+- Lapis
 - Diamond
 - Emerald
 - Tin
@@ -95,44 +95,44 @@ Materials
 - Chromite
 - Sapphire
 - Green Sapphire
-- Manganese
+- 
 
-- Eximite
-- Meutoite
-- Adamantine
-- Astral Siver
+- 
+- 
+- 
+- 
 
-- Atlarus
-- Carmot
-- Deep Iron
-- Infuscolium
+- 
+- 
+- 
+- 
 
-- Mithril
-- Orichalcum
-- Oureclase
-- Prometheum
+- 
+- 
+- 
+- 
 
-- Rubracium
-- Aldourite
-- Ceruclase
-- Ignatius
+- 
+- 
+- 
+- 
 
-- Kalendrite
-- Lemurite
-- Midasium
-- Sanguinite
+- 
+- 
+- 
+- 
 
-- Shadow Iron
-- Vulcanite
-- Vyroxeres
-- Bitumen
+- 
+- 
+- 
+- 
 
-- Magnesium
-- Potash
-- Phosphorite
-- Peridot
+- 
+- 
+- 
+- 
 
-- Ruby
-- Sapphire
+- 
+- 
 - 
 - 
