@@ -1,0 +1,26 @@
+# Equivalent to the vanilla grass.png
+blocks=grass tallgrass:1,2 reeds
+
+# Same, without reeds
+blocks=grass tallgrass:1,2
+
+# Equivalent to the vanilla foliage.png
+blocks=leaves:0,4,8,12 vine
+
+# Pine/spruce leaves
+blocks=leaves:1,5,9,13
+
+# Birch leaves
+blocks=leaves:2,6,10,14
+
+# Jungle leaves
+blocks=leaves:3,7,11,15
+
+# Acacia leaves
+blocks=leaves2:0,4,8,12
+
+# Old oak leaves
+blocks=leaves2:1,5,9,13
+
+# Water
+blocks=water flowing_water
